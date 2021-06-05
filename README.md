@@ -1,4 +1,4 @@
-![Banner](images/Banner.png)
+![Banner](images/banner.png)
 
 # Airbnb_Rio_de_Janeiro
 Air BnB has seen explosive growth in the last 10 years.  After its founding in 2008 by Brian Chesky, Nathan Blecharczyk, and Joe Gebbia, it has grown to become a 93 billion dollar market cap company pulling in annual revenues of 3.378 billion dollars in 2020. Brazil in its own right has seen an influx of growth and economic development in recent years in large part due to its thriving tourism industry.  The the past decade Brazil has been host to a football(soccer) world cup, a summer olympic games, as well as its annual Carnival.  
